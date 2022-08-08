@@ -1,2 +1,2 @@
-api/nodemodules
-client/nodemodules
+api/nodemodules/*
+client/nodemodules/*
